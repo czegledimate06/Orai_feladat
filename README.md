@@ -1,2 +1,1 @@
-# Orai_feladat
- Szia!
+Szia Deni
